@@ -13,3 +13,8 @@ git clone https://github.com/WhiteHatCyberus/Deep-Learning-Evaluation-of-IDS-Dat
 ```
 - Now run the `jupyter-notebook` command in the directory where the extracted zip file is found.
 - All componenets of the jupyter-notebooks are all found in the folder.
+
+## Credits
+Every developer deserves credit for the work and time they put in.
+
+Thank you [Joule Effect](https://github.com/jouleffect) for your contribution in the evaluation of Deep Learning models on NSL-KDD IDS dataset.
